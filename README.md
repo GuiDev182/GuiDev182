@@ -1,6 +1,9 @@
 <div align="center">
 <h2>Hello, My name is Guilherme Lima 👋<h2>
+<img src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47rx97cw7or29xvd74e7ydb5tytc3vrgb8bauus4wf&rid=giphy.gif&ct=g">
 </div>
+
+
 
 
 <div align="center">
