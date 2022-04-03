@@ -1,5 +1,6 @@
-### Hello, My name is Guilherme Lima 👋
-
+<div align="center">
+<h2>Hello, My name is Guilherme Lima 👋<h2>
+</div>
 
 
 <div align="center">
