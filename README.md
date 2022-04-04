@@ -3,9 +3,6 @@
 <img src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47rx97cw7or29xvd74e7ydb5tytc3vrgb8bauus4wf&rid=giphy.gif&ct=g">
 </div>
 
-
-
-
 <div>
   <a href="https://github.com/GuiDev182">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiDev182&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
